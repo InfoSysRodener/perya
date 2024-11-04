@@ -1,0 +1,22 @@
+{
+  "theme_color": "#ffffff",
+  "background_color": "#f2f2f2",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    { "purpose": "any", "sizes": "512x512", "src": "icon512_rounded.png", "type": "image/png" }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-CA",
+  "name": "MEGAPERYA",
+  "short_name": "Perya",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "description": "a gaming aggregator "
+}
